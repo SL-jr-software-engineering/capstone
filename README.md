@@ -8,8 +8,8 @@
 
 
 
-- 🔭 I’m currently working on **Sa puso ng mahal ko**
+- 🔭 We currently working on **Sa puso ng mahal ko**
 
-- 🌱 I’m currently learning **react JS,python and cyber security**
+- 🌱 We currently learning **react JS,python and cyber security**
 
 - 💬 Ask me about **front end and back end**
